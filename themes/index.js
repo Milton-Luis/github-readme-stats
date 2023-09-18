@@ -444,6 +444,13 @@ export const themes = {
     border_color: "e1bc29",
     bg_color: "2b2d40",
   },
+  ruin_mode: {
+    title_color: "9c0808",
+    text_color: "318cb6",
+    icon_color: "ff0000",
+    border_color: "9c0808",
+    bg_color: "21075f",
+  },
 };
 
 export default themes;
